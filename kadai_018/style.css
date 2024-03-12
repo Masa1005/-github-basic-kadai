@@ -41,7 +41,6 @@
 #bottom{
     width: 800px;
     height: 300px;
-    text-align: center;
     background-color: #87ceeb;
 }
 #bottom-child01, #bottom-child02, #bottom-child03 {
@@ -56,4 +55,8 @@
 #bottom-child03 {
     position: relative;
     left: 400px;
+}
+#top, #middle, #bottom {
+    margin-left: auto;
+    margin-right: auto;
 }
