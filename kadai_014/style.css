@@ -1,11 +1,13 @@
+html {
+    font-size: 20px;
+}
 body {
     font-family: "Arial","Meiryo",sans-serif;
-    font-size: 20px;
     text-align: center;
 }
 h1 {
-    font-family: "https://fonts.google.com/specimen/Josefin+Sans?query=Josefin+Sans" sans-serif;
-    font-size: 200%;
+    font-family: "https://fonts.google.com/?query=Josefin+Sans" sans-serif;
+    font-size: 2em;
     letter-spacing: 1.2em;
     text-shadow: 2px 2px 2px green;
     border-bottom: solid 3px rgb(115,115,114);
@@ -15,8 +17,8 @@ h1 {
 }
 .color2 {
     color: rgb(255,192,203);
-
-p {
+}
+.bold {
     font-weight: bold;
 }
 
